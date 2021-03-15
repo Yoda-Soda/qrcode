@@ -1,0 +1,22 @@
+{
+  "name": "qrcode",
+  "version": "1.0.0",
+  "description": "Generate QRcode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoda-Soda/qrcode.git"
+  },
+  "keywords": [
+    "qrcode"
+  ],
+  "author": "Jan Claasen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yoda-Soda/qrcode/issues"
+  },
+  "homepage": "https://github.com/Yoda-Soda/qrcode#readme"
+}
