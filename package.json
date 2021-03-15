@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Yoda-Soda/qrcode/issues"
   },
-  "homepage": "https://github.com/Yoda-Soda/qrcode#readme"
+  "homepage": "https://github.com/Yoda-Soda/qrcode#readme",
+  "dependencies": {
+    "qrcode": "^1.4.4"
+  }
 }
